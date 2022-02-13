@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Doggo Video</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<header>
+			<h1>Doggo Video</h1>
+			<nav> <a href="Assignment.html">Home</a>
+			<nav> <a href="Dog.html">Dog Picture</a>
+			<nav> <a href="Dog_video.html">Dog Video</a>	
+			<hr>			
+		</header>
+			<main>
+			<iframe width="400" height="300"
+				src=https://youtu.be/1HygThMLzGs">Dog Video Link
+			</main>
+	</body>
+	<footer>
+</html>
