@@ -6,12 +6,14 @@
 	</head>
 	<body>
 		<header>
-			<h1>Here are some doggos.</h1>
+			<h1>Welcome to Doggo.com</h1>
 			<nav> <a href="Assignment.html">Home</a>
 			<nav> <a href="Dog.html">Dog Picture</a>
-			<nav> <a href="Dog_video.html">Dog Video</a>
+			<nav> <a href="Dog_video.html">A Dog Video</a>
 			<hr>
-			<main>
+			<blockquote cite="https://www.rover.com/blog/funny-dog-quotes-every-dog-lover-will-relate-to/">
+			<p>“Outside of a dog, a book is a man’s best friend. Inside of a dog, it’s too dark to read.”—Groucho Marx
+			</p>
 		</header>
 	</body>
 	<footer>
