@@ -1,4 +1,6 @@
-
+h1	{
+	text-shadow: 2px 2px 8px #FF0000;
+}
 ol	{
 	list-style-type: upper-roman;
 	
@@ -8,7 +10,6 @@ ul 	{
 	list-style-type: square;
 }
  html {
-	<link rel="preconnect" href="https://fonts.googleapis.com">
 	font-size: 25px;
 	color: white;
 	font-family: "Montserrat", sans-serif;
