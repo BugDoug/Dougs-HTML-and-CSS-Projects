@@ -1,0 +1,6 @@
+p {
+		color: Coral;
+		font-size: large;
+		text-align: left;
+		font-weight: bold;
+	}

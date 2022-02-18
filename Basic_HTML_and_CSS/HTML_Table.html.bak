@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+table	{
+	border: 5px solid silver;
+}
+td:hover	{
+	background-color:	blue;
+	color: black;
+}
+tr,th	{
+	background-color:	black;
+	color: cornsilk;
+}
+tr, td	{
+	background-color:	darkgreen;
+	color: white;
+	
+	<body>
+		<h1> A Table That Probably Doesn't Make Sense</h1>
+		<Table style="width:100%">
+		<tr>
+			<th>Name</th>
+			<th>Astrology Sign</th>
+			<th>Blood type</th>
+			<th>Hogwarts Class</th>
+		</tr>
+		<tr>
+			<td>Stella Roseflower</td>
+			<td>libra</td>
+			<td>AB</td>
+			<td>Gryffindor</td>
+		</tr>
+		<tr>
+			<td>Jade Sagebrush</td>
+			<td>Pieces</td>
+			<td>O</td>
+			<td>ravenclaw</td>
+		</tr>
+		</table>
+	</body>
+</html>

@@ -1,0 +1,9 @@
+p	{
+		color: green;
+		text-align: right;
+	}
+h1 {
+		size: 7;
+		text-align: center;
+		color: brown;
+	}

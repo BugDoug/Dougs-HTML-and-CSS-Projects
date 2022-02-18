@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+h1 {
+  text-shadow: 2px 2px 8px #FF0000;
+}
+<head>
+	<title>Beginner CSS</title>
+</head>
+<body>	
+	<link rel="stylesheet" type="text/css" href="Basic_CSS_2.css">
+	<p> This is baSic HTmL aNd CsS &amp; More</p>
+<!--Life is like a box of chocolates, you don't know what you're gonna get.-->
+</body>
+</html>
