@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+	<header>
+		<title>Wilkins Coffee</title>
+	</header>
+	<body>
+<!--NAV-->
+			<div>
+				<div>
+					<ul>
+						<a href="#home" id="link"><li>Home</li></a>
+						<a href="#gallery" id="link"><li>Gallery</li></a>
+						<a href="#contact me" id="link"><li>Contact Me!</li><a>
+					</ul>
+				</div>
+			</div>
+<!--END NAV-->
+		<!--HOME-->
+		<div id="home">
+			<div>
+				<div>
+					<span>Wilkins Coffee</span>
+					<p>“A yawn is a silent scream for coffee."</p><br>
+					<p>Welcome To Wilkins, where every sip hits just right.</p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/LmhIizQQol0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+		</div>
+		<!--END HOME-->
+<!--gallery-->
+		<section>
+			<div id="gallery">
+				<h1>Gallery</h1>
+				<div>
+<!-- PHOTO CONTAINER 1 -->
+					<div>
+						<div>
+							<img src="./Pictures/Thumb/thumbnail_1.jpg" alt="Bob Omb">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p> Buy our coffee... Or else
+							</div>
+						</div>
+					</div>
+<!--END PHOTO-CONTAINER 1! -->
+<!-- PHOTO CONTAINER 2 -->
+					<div>
+						<div>
+							<img src="./Pictures/Thumb/thumbnail_2.jpg" alt="Bob Omb">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p> Buy our coffee... Or else
+							</div>
+						</div>
+					</div>
+<!--END PHOTO-CONTAINER 2! -->
+<!-- PHOTO CONTAINER 3 -->
+					<div>
+						<div>
+							<img src="./Pictures/Thumb/thumbnail_3.jpg" alt="Bob Omb">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p> Buy our coffee... Or else
+							</div>
+						</div>
+					</div>
+<!--END PHOTO-CONTAINER 3! -->
+<!-- PHOTO CONTAINER 4 -->
+					<div>
+						<div>
+							<img src="./Pictures/Thumb/thumbnail_4.png" alt="Bob Omb">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p> Buy our coffee... Or else
+							</div>
+						</div>
+					</div>
+<!--END PHOTO-CONTAINER 4! -->
+<!-- PHOTO CONTAINER 5 -->
+					<div>
+						<div>
+							<img src="./Pictures/Thumb/thumbnail_5.jpg" alt="Bob Omb">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p> Buy our coffee... Or else
+							</div>
+						</div>
+					</div>
+<!--END PHOTO-CONTAINER 5! -->
+<!-- PHOTO CONTAINER 6 -->
+					<div>
+						<div>
+							<img src="./Pictures/Thumb/thumbnail_6.jpg" alt="Bob Omb">
+							<div>
+								<h3>Click to Enlarge</h3>
+								<p> Buy our coffee... Or else
+							</div>
+						</div>
+					</div>
+<!--END PHOTO-CONTAINER 6! -->
+				</div>
+			</div>
+		</section>
+		<!-- END GALLERY -->
+<!--Contact Me-->
+		<section>
+			<div id="contact me">
+				<div>
+					<h1>Contact Me!</h1>
+					<div>
+						<h2><span> You can't live without us.</span>
+							<br /> Reserve your coffee today!
+						</h2>
+						<p>
+							Provide us your basic contact information.
+						</p>
+						<div>
+							<form action="" method="post">
+								<input class="rsvp" type="text" value="First Name"><br>
+								<input class="rsvp" type="text" value="Last Name"><br>
+								<input class="rsvp" type="text" value="Email Address"><br>
+								<input class="rsvp" type="text" value="Phone Number"><br>
+								<div class="form-spacer"
+									<label class="terms">Terms and Conditions</label>
+								</div>
+								<div>
+									<input type="submit" value="submit">
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--END STORE-->
+<!--NAV-->
+	<footer>
+			<div>
+				<div>
+					<ul>
+						<a href="#home" id="link"><li>Home</li></a>
+						<a href="#gallery" id="link"><li>Gallery</li></a>
+						<a href="#contact me" id="link"><li>Contact Me!</li><a>
+					</ul>
+				</div>
+			</div>
+	</footer>
+<!--END NAV-->
+	
+	</body>
+</html>
