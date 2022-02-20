@@ -37,7 +37,7 @@
 					<!-- PHOTO CONTAINER 1 -->
 					<div>
 						<div>
-							<img src="./Images/Thumb/thumbnail_1.png" alt="Bob Omb">
+							<img src="./Images/Thumb/thumbnail_1.png" alt="">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p> I have a lot of extra ones in my plumbing. Highly requested!
@@ -48,7 +48,7 @@
 				<!-- PHOTO CONTAINER 2 -->
 					<div>
 						<div>
-							<img src="./Images/Thumb/thumbnail_2.png" alt="Fire Flower">
+							<img src="./Images/Thumb/thumbnail_2.png" alt="">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p> These grow pretty fast but they keep setting my house on fire.
@@ -59,7 +59,7 @@
 				<!-- PHOTO CONTAINER 3 -->
 					<div>
 						<div>
-							<img src="./Images/Thumb/thumbnail_3.png" alt="Goomba">
+							<img src="./Images/Thumb/thumbnail_3.png" alt="">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p> Goombas are a rare delicacy. I pre-tenderize each one beforehand.
@@ -70,7 +70,7 @@
 				<!-- PHOTO CONTAINER 4 -->
 					<div>
 						<div>
-							<img src="./Images/Thumb/thumbnail_4.png" alt="?">
+							<img src="./Images/Thumb/thumbnail_4.png" alt="">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p> Who doesn't love a surprise box! Also available as a subscription.
@@ -81,7 +81,7 @@
 				<!-- PHOTO CONTAINER 5 -->
 					<div>
 						<div>
-							<img src="./Images/Thumb/thumbnail_5.png" alt="Star">
+							<img src="./Images/Thumb/thumbnail_5.png" alt="">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p> I keep finding these and really need to get rid of them. 
@@ -92,7 +92,7 @@
 				<!-- PHOTO CONTAINER 6 -->
 					<div>
 						<div>
-							<img src="./Images/Thumb/thumbnail_6.png" alt="Green Shroom">
+							<img src="./Images/Thumb/thumbnail_6.png" alt="">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p> These will either make you very sick or make you feel like you gained life.
@@ -103,7 +103,7 @@
 				<!-- PHOTO CONTAINER 7 -->
 					<div>
 						<div>
-							<img src="./Images/Thumb/thumbnail_7.png" alt="Super Shroom">
+							<img src="./Images/Thumb/thumbnail_7.png" alt="">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p> These are pretty trippy, I highly recommend.
@@ -114,7 +114,7 @@
 				<!-- PHOTO CONTAINER 8 -->
 					<div>
 						<div>
-							<img src="./Images/Thumb/thumbnail_8.png" alt="Turt">
+							<img src="./Images/Thumb/thumbnail_8.png" alt="">
 							<div>
 								<h3>Click to Enlarge</h3>
 								<p> A delicious dish that goes well with a cabernet.
@@ -125,10 +125,10 @@
 				<!-- PHOTO CONTAINER 8 -->
 					<div>
 						<div>
-							<img src="./Images/Thumb/thumbnail_9.png" alt="Blue Turt">
+							<img src="./Images/Thumb/thumbnail_9.png" alt="">
 							<div>
 								<h3>Click to Enlarge</h3>
-								<p> A little chewier, although it does have side benefits as a performance enhancer.
+								<p> A little chewier, although it does have side benefits if one is racing with it.
 							</div>
 						</div>
 					</div>
