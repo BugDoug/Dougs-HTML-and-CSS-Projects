@@ -1,29 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
-<meta charset="utf-8">
-	<header>
-		<title>Wilkins Coffee</title>
-	</header>
+
+<head>
+	<br><br><br><br>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="./css/one_page_website.css">
+	<title>Wilkins Coffee</title>
+</head>
 	<body>
+
 <!--HOME-->
 		<div id="home">
 			<div>
 				<div>
-					<span>Wilkins Coffee</span>
-					<p>“A yawn is a silent scream for coffee."</p><br>
+					<span class="coffee">Wilkins Coffee</span>
+					
+					<center>
 					<p>Welcome To Wilkins, where every sip hits just right.</p>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/LmhIizQQol0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<p>“A yawn is a silent scream for coffee."</p>
+					<br>
+					<iframe width="1120" height="630" src="https://www.youtube.com/embed/LmhIizQQol0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+					allowfullscreen></iframe></center>
 				</div>
 			</div>
 		</div>
 <!--END HOME-->
+
 <!--NAV-->
-			<div>
+			<div class="menu-container">
 				<div>
 					<ul>
 						<a href="#home" id="link"><li>Home</li></a>
 						<a href="#gallery" id="link"><li>Gallery</li></a>
-						<a href="#contact me" id="link"><li>Contact Me!</li><a>
+						<a href="#contact_me" id="link"><li>Contact</li></a>
 					</ul>
 				</div>
 			</div>
@@ -33,80 +42,82 @@
 		<section>
 			<div id="gallery">
 				<h1>Gallery</h1>
-				<div>
+				<div class="flex-container">
+
 <!-- PHOTO CONTAINER 1 -->
-					<div>
+					<div class="photo-container">
 						<div>
 							<img src="./Pictures/Thumb/thumbnail_1.jpg" alt="Bob Omb">
 							<div>
-								<h3>Click to Enlarge</h3>
 								<p> Buy our coffee... Or else
 							</div>
 						</div>
 					</div>
 <!--END PHOTO-CONTAINER 1! -->
+
 <!-- PHOTO CONTAINER 2 -->
-					<div>
+					<div class="photo-container">
 						<div>
 							<img src="./Pictures/Thumb/thumbnail_2.jpg" alt="Bob Omb">
 							<div>
-								<h3>Click to Enlarge</h3>
 								<p> Buy our coffee... Or else
 							</div>
 						</div>
 					</div>
 <!--END PHOTO-CONTAINER 2! -->
+
 <!-- PHOTO CONTAINER 3 -->
-					<div>
+					<div class="photo-container">
 						<div>
 							<img src="./Pictures/Thumb/thumbnail_3.jpg" alt="Bob Omb">
 							<div>
-								<h3>Click to Enlarge</h3>
 								<p> Buy our coffee... Or else
 							</div>
 						</div>
 					</div>
 <!--END PHOTO-CONTAINER 3! -->
+
 <!-- PHOTO CONTAINER 4 -->
-					<div>
+					<div class="photo-container">
 						<div>
 							<img src="./Pictures/Thumb/thumbnail_4.png" alt="Bob Omb">
 							<div>
-								<h3>Click to Enlarge</h3>
 								<p> Buy our coffee... Or else
 							</div>
 						</div>
 					</div>
 <!--END PHOTO-CONTAINER 4! -->
+
 <!-- PHOTO CONTAINER 5 -->
-					<div>
+					<div class="photo-container">
 						<div>
 							<img src="./Pictures/Thumb/thumbnail_5.jpg" alt="Bob Omb">
 							<div>
-								<h3>Click to Enlarge</h3>
 								<p> Buy our coffee... Or else
 							</div>
 						</div>
 					</div>
 <!--END PHOTO-CONTAINER 5! -->
+
 <!-- PHOTO CONTAINER 6 -->
-					<div>
+					<div class="photo-container">
 						<div>
 							<img src="./Pictures/Thumb/thumbnail_6.jpg" alt="Bob Omb">
 							<div>
-								<h3>Click to Enlarge</h3>
 								<p> Buy our coffee... Or else
 							</div>
 						</div>
 					</div>
 <!--END PHOTO-CONTAINER 6! -->
+				
 				</div>
 			</div>
 		</section>
 		<!-- END GALLERY -->
+
 <!--Contact Me-->
-		<section>
-			<div id="contact me">
+		<section id="contact_me">
+			<div class="container">
 				<div>
 					<h1>Contact Me!</h1>
 					<div>
@@ -118,15 +129,16 @@
 						</p>
 						<div>
 							<form action="" method="post">
-								<input class="rsvp" type="text" value="First Name"><br>
-								<input class="rsvp" type="text" value="Last Name"><br>
-								<input class="rsvp" type="text" value="Email Address"><br>
-								<input class="rsvp" type="text" value="Phone Number"><br>
-								<div class="form-spacer"
-									<label class="terms">Terms and Conditions</label>
+								<input class="rsvp" type="text" value="First Name"readonly><br>
+								<input class="rsvp" type="text" value="Last Name"readonly><br>
+								<input class="rsvp" type="text" value="Email Address"readonly><br>
+								<input class="rsvp" type="text" value="Phone Number"readonly><br>
+								<div class="form-spacer"></div>
+								<div>
+									<input type="submit" value="Submit">
 								</div>
 								<div>
-									<input type="submit" value="submit">
+								<label class="terms">Terms and Conditions</label>
 								</div>
 							</form>
 						</div>
@@ -134,20 +146,8 @@
 				</div>
 			</div>
 		</section>
-		<!--END STORE-->
-<!--NAV-->
-	<footer>
-			<div>
-				<div>
-					<ul>
-						<a href="#home" id="link"><li>Home</li></a>
-						<a href="#gallery" id="link"><li>Gallery</li></a>
-						<a href="#contact me" id="link"><li>Contact Me!</li><a>
-					</ul>
-				</div>
-			</div>
-	</footer>
-<!--END NAV-->
+<!--END STORE-->
+
 	
 	</body>
 </html>
